@@ -1,2 +1,4 @@
 # http://andredbernardes.github.io
-Meu site
+Novo site de Andre Bernardes esta pronto!
+
+Fique atento as Modificações...
